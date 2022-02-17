@@ -1,0 +1,23 @@
+body{
+    background-image:url("https://image.freepik.com/free-vector/abstract-background-fluid-design_23-2148569527.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    font-family: 'Supermercado One', cursive;
+    font-size:30px;
+    color: whitesmoke;
+}
+
+#d1{
+    float:left;
+}
+
+#d2{
+    float:right;
+}
+
+#Selfie,#WebCam{
+    width:400px;
+    height:400px;
+    border:3px blue solid;
+}
